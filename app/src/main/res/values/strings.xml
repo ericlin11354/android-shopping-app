@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Go Shopping</string>
+    <string name="error_retry">Retry</string>
+    <string name="addtocart">Add To Cart</string>
+    <string name="settings_screen_title">Settings</string>
+    <string name="nav_back_content_description">Back</string>
+    <string name="settings_enable_rotation">Enable Screen Rotation</string>
+    <string name="shopping_list_title_text">Shopping</string>
+    <string name="settings_button_content_description">Navigate to Settings</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="empty_list">Your cart is empty!</string>
+    <string name="checkout_button_text">Checkout</string>
+    <string name="checkout_list_header">Items in your Order:</string>
+    <string name="coupon_input_header">Have a Coupon? Enter it here!</string>
+    <string name="coupon_input_placeholder">Coupon Code</string>
+    <string name="coupon_btn_text">Apply</string>
+    <string name="coupon_apply_error">Invalid Coupon</string>
+    <string name="coupon_apply_success">Coupon Successfully Applied</string>
+    <string name="checkout_total_amt">Total Amount</string>
+    <string name="success_button_text">Place Order</string>
+    <string name="processing_order_text">Processing your order...</string>
+    <string name="payment_successful">Payment Successful!</string>
+    <string name="payment_successful_desc">Your order has been placed successfully.</string>
+    <string name="shopping_list_btn">Back to Home</string>
+</resources>
